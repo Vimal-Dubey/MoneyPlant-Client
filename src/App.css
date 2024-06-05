@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* App.css */
+
+/* Adjust the existing styles for the navigation bar */
+.navbar {
+    position: fixed; /* Fixed position */
+    top: 0; /* Stay at the top */
+    width: 100%; /* Full width */
+    z-index: 100; /* Ensure it's above other content */
+    /* Add any other styles you want for the navbar */
+  }
+  
